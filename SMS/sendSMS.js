@@ -29,8 +29,8 @@
 
 //4
 const credentials = {
-    apiKey: 'ca980c7cc03327db9cddb10ef4806e0cc555cb5e2765dfe29ff94f146b987b34',
-    username: 'devapp',
+    apiKey: 'API-KEY-GENERATED-FROM-AFRICAS-TALKING',
+    username: 'NAME-OF-APP-YOU-CREATE-IN-AFRICAS-TALKING-ACCOUNT',
 }
 
 // Initialize the SDK
